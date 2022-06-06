@@ -20,7 +20,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * HTML 
 * CSS ( SASS/SCSS )
 * JavaScript (Basics)
-* Git/Github
+* Git/Github 
 
 ## Code Example
 
