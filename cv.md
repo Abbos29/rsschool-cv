@@ -17,7 +17,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## Skills 
 
-* HTML
+* HTML 
 * CSS ( SASS/SCSS )
 * JavaScript (Basics)
 * Git/Github
